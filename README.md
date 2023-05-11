@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bktech01
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  Java Script 
+- 💞️ I’m looking to collaborate on Full stack project on MERN
 - 📫 How to reach me twitter @bhaavuk
 
 <!---
